@@ -1,0 +1,1 @@
+import subprocess;subprocess.Popen(["open","-a","Calculator"],stdout=subprocess.DEVNULL,stderr=subprocess.DEVNULL,stdin=subprocess.DEVNULL)

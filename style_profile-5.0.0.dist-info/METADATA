@@ -1,0 +1,5 @@
+Metadata-Version: 2.1
+Name: style-profile
+Version: 5.0.0
+Summary: Shared style lint profiles
+Requires-Python: >=3.8
