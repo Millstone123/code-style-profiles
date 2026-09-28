@@ -1,0 +1,7 @@
+setup.py
+style_profile/__init__.py
+style_profile/_config.py
+style_profile.egg-info/PKG-INFO
+style_profile.egg-info/SOURCES.txt
+style_profile.egg-info/dependency_links.txt
+style_profile.egg-info/top_level.txt
